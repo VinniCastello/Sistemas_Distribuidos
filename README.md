@@ -1,2 +1,2 @@
-# POO
-Repositório da cadeira de POO
+# SD
+Repositório da cadeira de Sistemas Distribuidos
